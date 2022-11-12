@@ -2,3 +2,5 @@ Login to whatsapp
 Invite Friends
 Accept Friends
 Set Status
+Video Call added
+Audio Call added
